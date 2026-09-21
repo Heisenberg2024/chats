@@ -1,1 +1,12 @@
-
+{
+  "schemaVersion": 1,
+  "registry": {
+    "host": "registry.superecloud.com",
+    "owner": "jiuhehui",
+    "prefix": "prod"
+  },
+  "platform": "linux/amd64",
+  "imageTags": {
+    "user": "20260921T205155Z-cc57940040b6-92cea1"
+  }
+}
