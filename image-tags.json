@@ -1,16 +1,1 @@
-{
-  "schemaVersion": 1,
-  "registry": {
-    "host": "registry.superecloud.com",
-    "owner": "jiuhehui",
-    "prefix": "prod"
-  },
-  "platform": "linux/amd64",
-  "imageTags": {
-    "user": "20260921T205317Z-cc57940040b6-04e9f0",
-    "gate": "20260921T205317Z-cc57940040b6-04e9f0",
-    "connector": "20260921T205317Z-cc57940040b6-04e9f0",
-    "hall": "20260921T205317Z-cc57940040b6-04e9f0",
-    "game": "20260921T205317Z-cc57940040b6-04e9f0"
-  }
-}
+
