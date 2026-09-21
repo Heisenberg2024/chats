@@ -1,1 +1,12 @@
-
+{
+  "schemaVersion": 1,
+  "registry": {
+    "host": "docker.superecloud.com",
+    "owner": "jiuhehui",
+    "prefix": "prod"
+  },
+  "platform": "linux/amd64",
+  "imageTags": {
+    "user": "20260921T211612Z-cc57940040b6-16b0f2"
+  }
+}
