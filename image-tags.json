@@ -1,13 +1,1 @@
-{
-  "schemaVersion": 1,
-  "registry": {
-    "host": "docker.io",
-    "owner": "vitality1573",
-    "prefix": "prod"
-  },
-  "platform": "linux/amd64",
-  "imageTags": {
-    "user": "20260921T202704Z-cc57940040b6-1672d8",
-    "game": "20260921T203237Z-cc57940040b6-03c3e3"
-  }
-}
+
